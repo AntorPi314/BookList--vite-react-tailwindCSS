@@ -17,6 +17,10 @@ npm create vite@latest
 cd your-project-name
 code .
 ```
+For download node_modules >>
+```sh
+npm install 
+```
 
 ### 3. Install Tailwind CSS and Vite Plugin
 ```sh
